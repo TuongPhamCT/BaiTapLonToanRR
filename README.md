@@ -1,2 +1,2 @@
 # BaiTapLonToanRR
-Resolution of some Math practice
+Resolution of some Math Excercise.
